@@ -1,0 +1,12 @@
+body {
+    color: blueviolet;
+}
+img {
+    width: 300px;
+    height: auto;
+    border-radius: 50px;
+    border: solid }
+ol, ul { 
+    background-color: mediumpurple;
+    color: white;
+}

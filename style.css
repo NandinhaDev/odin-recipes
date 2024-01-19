@@ -1,0 +1,12 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 5px;}
+
+h1 {
+    color: blueviolet;
+}
+a button {
+    background-color: blueviolet;
+    color: white;
+    margin: 5px;
+}
